@@ -50,7 +50,16 @@ int main()
 {
     class Calculator c1;
     c1.result();
+    c1.add();
+    c1.sub();
+    c1.mul();
     c1.div();
+        
+
+    
+
+    
+
      
     return 0;
 }
