@@ -17,7 +17,7 @@ public :
 };
 void batsman::readdata ()
 {
-	cout<<"Enter batsman code \n";
+	cout<<"Enter batsman  code \n";
 	cin>> bcode;
 	cout<<"Enter batsman name \n";
     gets(bname);
