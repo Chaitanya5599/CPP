@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-	char name[30], pizza1[]="Chicken Fazita" ,pizza2[]="Chicken Bar BBQ" ,pizza3[]="Peri Peri" ,pizza4[]="Creamy Max", roll1[]="Chicken Chatni Roll", roll2[]="Chicken Mayo Roll", roll3[]="Veg Roll With Fries",bur1[]="Zinger Burger",bur2[]="Chicken Burger",bur3[]="Egg Burger";
-	char sand1[]="Club Sandwich", sand2[]="Chicken Crispy Sandwich", sand3[]="Extream Veg Sandwich";
+	char name[30], pizza1[]="Creamy Chicken" ,pizza2[]="Chicken Bar BBQ" ,pizza3[]="Peri Peri" ,pizza4[]="Spicy Panner", roll1[]="Chicken Roll", roll2[]="Chicken Mayo Roll", roll3[]="Veg Roll With Fries",bur1[]="Zinger Burger",bur2[]="Chicken Burger",bur3[]="Egg Burger";
+	char sand1[]="Club Sandwich", sand2[]="Chicken Sandwich", sand3[]="Cheesy Veg Sandwich";
 	char bir1[]="Chicken Biryani", bir2[]="Prawn Biryani", bir3[]="Egg Biryani",gotostart ;
 	int choice=0,pchoice,pchoice1, quantity;
 	beginning:
