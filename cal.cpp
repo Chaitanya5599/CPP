@@ -32,7 +32,7 @@ public:
     float mul()
     {
         cout<<"The Multiplication of both value is  "<<a*b<<endl;
-        return a*b;
+        return a*b ;
     }
    
     
