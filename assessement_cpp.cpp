@@ -15,7 +15,7 @@ int main()
 
 	cout<<"\t\t\t\t--------Menu--------\n\n";
 
-	cout<<"1) Pizzas\n";
+	cout<<"1) Pizzas \n";
 	cout<<"2) Burgers\n";
 	cout<<"3) Sandwich\n";
 	cout<<"4) Rolls\n";
