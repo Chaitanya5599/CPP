@@ -21,7 +21,7 @@ cout<<"Enter side of a square:";
 
 cin>>s;
 
-cout<<"Enter length and breadth of rectangle:";
+cout<<"Enter length and breadth of rectangle :";
 
 cin>>l>>b;
 
