@@ -5,7 +5,7 @@ class Person{
 		string name;
 		int age;
 	public:
-		void setPerson(int a, string n){
+		void  setPerson(int a, string n){
 			name = n;
 			age = a;
 		}
