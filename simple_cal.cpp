@@ -15,7 +15,7 @@ int main()
 
   cout << "firstNumber - secondNumber = " << firstNumber - secondNumber << endl;
 
-  cout << "firstNumber * secondNumber = " << firstNumber * secondNumber << endl;
+  cout << "firstNumber * secondNumber  = " << firstNumber * secondNumber << endl;
 
   cout << "firstNumber/secondNumber = " << firstNumber / secondNumber << endl;
   
