@@ -3,7 +3,7 @@ using namespace std;
 class FunctionOverloading
 {
 public:
-  int calculation(int a, int b, int k) /*addition of two numbers*/
+  int  calculation(int a, int b, int k) /*addition of two numbers*/
   {
     cout << "The sum is = " << a + b + k << endl;
   }
